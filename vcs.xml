@@ -114,9 +114,13 @@
           <option name="url" value="https://github.com/larsien/UIChallenge_event_ios_mobile_app_animation_by_ronasit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HeyFlutter-Public/Flutter-Fitness-Dashboard-UI.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
