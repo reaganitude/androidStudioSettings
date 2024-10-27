@@ -122,6 +122,10 @@
           <option name="url" value="https://github.com/JohannesMilke/localization_i18n_arb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/noskova/flutter-app-localizations-provider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
